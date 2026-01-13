@@ -1,0 +1,1 @@
+A green line runs diagonally across the map, with light blue area on the right and white spaces elsewhere.

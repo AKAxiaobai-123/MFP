@@ -1,0 +1,1 @@
+A green dashed line runs horizontally across the map, above a yellow band and below a blue area.

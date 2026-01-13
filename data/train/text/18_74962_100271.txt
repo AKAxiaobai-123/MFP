@@ -1,0 +1,1 @@
+A green diagonal path runs from the lower left to upper right, with grey buildings clustered on the left and a white road bordering them.

@@ -1,0 +1,1 @@
+Two green dashed lines traverse the map diagonally, one from lower left to upper right and another in the lower right corner.

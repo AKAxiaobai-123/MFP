@@ -1,0 +1,1 @@
+A green dashed path runs diagonally across the map, with a white road segment at the top left.

@@ -1,0 +1,1 @@
+In the upper right corner is a light green area with a dashed green line border, and scattered white polygons represent buildings across the map.

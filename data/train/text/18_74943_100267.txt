@@ -1,0 +1,1 @@
+A dashed green line runs diagonally from the upper left to the lower right, with a white horizontal strip dividing the map near the center.

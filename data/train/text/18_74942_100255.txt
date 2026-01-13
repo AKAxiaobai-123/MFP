@@ -1,0 +1,1 @@
+A green dashed line runs vertically along the left edge of the map, with light green terrain filling most of the area.

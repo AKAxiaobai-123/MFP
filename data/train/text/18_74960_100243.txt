@@ -1,0 +1,1 @@
+A dashed green line runs diagonally across the map, with a white triangular area in the lower left corner.

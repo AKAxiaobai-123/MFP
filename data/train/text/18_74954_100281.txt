@@ -1,0 +1,1 @@
+A green dashed line runs diagonally across the map, with a blue area in the lower left corner.

@@ -1,0 +1,1 @@
+Yellow roads run diagonally across the map, with a white road intersecting them in the upper right.

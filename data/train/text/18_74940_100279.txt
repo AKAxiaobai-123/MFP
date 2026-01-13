@@ -1,0 +1,1 @@
+A blue river flows diagonally from top left to bottom right, with light green terrain on both sides.

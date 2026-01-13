@@ -1,0 +1,2 @@
+In the upper right corner, there's a green dashed line indicating a river. Below the river, grey solid lines represent roads, with one road running east-west across the middle of the map.
+

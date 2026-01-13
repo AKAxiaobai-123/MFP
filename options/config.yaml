@@ -1,0 +1,6 @@
+# MFP Loss parameters
+lambda_global_cls: 10 #全局
+lambda_global_ssim: 1 #结构
+dino_model_name: dino_vitb8 # ['dino_vitb8', 'dino_vits8', 'dino_vitb16', 'dino_vits16']
+
+
